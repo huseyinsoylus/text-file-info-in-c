@@ -1,3 +1,3 @@
 # Table of contents
 
-* [\<ks> Komutu Kullanım Klavuzu](README.md)
+* [\<ks> Programı Kullanım Klavuzu](README.md)
