@@ -1,2 +1,3 @@
-# <ks> Komutu Kullanım Klavuzu
-C program to find the number of letters, words and lines in a text file.
+# \<ks> Komutu Kullanım Klavuzu
+
+\<ks> Komutu parametre olarak verilen .txt uzantılı dosya ya da dosyaların harf, kelime ve satır sayılarını geri döndüren işlem ve fonksiyonları içerir.
