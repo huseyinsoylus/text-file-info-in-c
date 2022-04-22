@@ -50,3 +50,22 @@ Stdin standart girişinden okuma yapmak için kullanılır.
 
 ![Resim - 6](.gitbook/assets/+\_parameter.png) ![Resim - 7](.gitbook/assets/+\_genel.png)
 
+### Programın Dikkat Edilmesi Gereken Özellikleri
+
+1-) "+" Parametresinden sonra diğer parametreler kullanılamaz.
+
+2-) Dosya isimlerinden sonra -w, -l, -c parametreleri kullanılamaz.
+
+3-) -wl, -lc gibi parametreler birleşik olarak çalıştırılamaz.
+
+4-) Programa en fazla 4096 karakterlik argüman verilebilir.
+
+5-) random.c dosyası 1.000.000 karakterlik bir random.txt dosyası oluşturur. Bu sanal makinada çalışıyorsanız makinanın donmasına sebep olabilir.
+
+
+
+### Yazar
+
+Hüseyin SOYLU\
+Marmara Üniversitesi -Teknoloji Fakültesi \
+Bilgisayar Mühendisliği Bölümü\
